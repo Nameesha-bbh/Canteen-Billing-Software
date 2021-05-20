@@ -5,7 +5,7 @@
 using namespace std;
 class canteen
 {
-    private :
+    public :
             int pp=0,mp=0,bp=0,sc=0,s=0,vb=0,en=0,vn=0,total=0;
             string name;
     public:
